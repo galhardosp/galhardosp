@@ -10,9 +10,9 @@ Sou um desenvolvedor front-end júnior comprometido em criar interfaces web Boni
 - **Outras Habilidades:** Design responsivo, UX/UI básico
 
 - ## Meus Sites:
-- ** https://termofiltro.com.br
-- ** https://www.holiverdecoracoes.com.br
-- ** https://www.botelhoeng.com.br
+- https://termofiltro.com.br
+- https://www.holiverdecoracoes.com.br
+- https://www.botelhoeng.com.br
 
 ## Como Entrar em Contato
 
